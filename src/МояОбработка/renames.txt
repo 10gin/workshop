@@ -1,0 +1,9 @@
+﻿5f6fa070-8ce2-46dd-aa10-f393feb83d5d-->und\5f6fa070-8ce2-46dd-aa10-f393feb83d5d
+copyinfo-->und\copyinfo
+f717f22a-6767-47bc-9307-17e442352453-->und\f717f22a-6767-47bc-9307-17e442352453
+f717f22a-6767-47bc-9307-17e442352453.0-->Form\Форма\Форма.txt
+f717f22a-6767-47bc-9307-17e442352453.0-->und\f717f22a-6767-47bc-9307-17e442352453.0
+f717f22a-6767-47bc-9307-17e442352453.0-->und\f717f22a-6767-47bc-9307-17e442352453.0
+root-->und\root
+version-->und\version
+versions-->und\versions
