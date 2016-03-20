@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿## Шаблон для работы правильного 1С разработчика
 
 [![Join the chat at https://gitter.im/silverbulleters/vanessa-bootstrap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -76,3 +77,6 @@ echo "Обновляю BootStrap"
 * для GitFlow в Windows мы советуем использовать программу SourceTree от компании Atlassian, для GitFlow в linux следует использовать расширение git-flow для git
 
 * для управления релизами мы используем [Семантическое версионирование](http://semver.org/lang/ru/)
+=======
+# workshop
+>>>>>>> ad85e883fc163e6a5678d0f644488b72964bd46b
